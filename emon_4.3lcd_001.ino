@@ -26,8 +26,8 @@
 /***************************************************************************************************
 ** Declare all program constants                                                                  **
 ***************************************************************************************************/
-const char *ssid     = "IOT2G-DoNotConnect!Private!";
-const char *password = "W@tEenPrutW@chtw00rd!";
+const char *ssid     = "";
+const char *password = "";
 
 #define TIMEZONE_OFFSET         "UTC+1"    // Fill in the Timezone, e.g. "CST-8"
 #define NVS_PART_NAME           "nvs"
